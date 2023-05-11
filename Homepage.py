@@ -1,12 +1,10 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 import pickle
 from streamlit_jupyter import StreamlitPatcher, tqdm
 from streamlit_option_menu import option_menu
 from PIL import Image
 import requests
-from io import BytesIO
 
 
 popular_50books=pickle.load(open('Assets//top50boock.pkl','rb'))
