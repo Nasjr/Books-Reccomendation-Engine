@@ -19,7 +19,7 @@ To run the app, use the following command:
 [Insert video demo here]
 
 ## Credits
-This app was built by [Your Name] and is powered by collaborative filtering, a popular algorithm used in recommender systems. 
+This app was built by [Mahmoud Nasser] and is powered by collaborative filtering, a popular algorithm used in recommender systems. 
 
 ## License 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
