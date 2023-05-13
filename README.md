@@ -1,6 +1,14 @@
-# 📚 Book Recommendation Engine on Streamlit
+# 📚 Book Recommendation Engine on Streamlit 
+with Collaborative Filtering on Streamlit
 
-This is a simple book recommendation engine built with Python and Streamlit. It suggests books based on user preferences and ratings using collaborative filtering, a technique commonly used in recommender systems.
+
+This is a book recommendation system app made with Python, Streamlit, and collaborative filtering. The app allows users to rate books and get personalized book recommendations based on their ratings and preferences.
+
+To use the app, users simply choose a book from a drop down menu, and the app generates a list of recommended books based on the book you choose. The app uses collaborative filtering, a popular technique used in many recommendation systems, to suggest books that are similar.
+
+The app is built with Streamlit, a popular Python library for building web apps, and is deployed to Render, a cloud platform for hosting and scaling web apps. The app is easy to use and provides a convenient way for book lovers to discover new books and expand their reading lists.
+
+
 
 ## Usage
 To use the app, simply select a book from the dropdown menu and The app will then generate a list of recommended books based on your ratings.
